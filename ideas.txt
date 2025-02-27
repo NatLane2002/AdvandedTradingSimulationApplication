@@ -1,0 +1,11 @@
+Feb 27th, 2025
+
+- Make the default start day the current day and the default end date one year from now
+- Make the entire screen have dark mode, not just the container with the information inside
+- Clean up the types file because I don't think the program is using all those types
+- Fix the Amount at Risk Per Trade so it can be any amount at all
+- By default I would like the Monthly Performance Breakdown to be collapsed on the results page and able to be opened up by the user seamlessly
+- I would like the already chosen settings to persist even after the user presses the "go back to settings button"
+- Add a "save settings" button and "load settings" in the top right of the screen at any time so the user can load previous sessions settings quickly and easily
+- Add a re-run button so the user can easily gain a check out an entirely new simulation quickly and easily
+- The user should be able to copy a neat screenshot of all their results from the current simulation with the press of a singular button on the results page
